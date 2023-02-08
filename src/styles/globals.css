@@ -9,10 +9,24 @@ body {
   font-family: Raleway;;
 }
 
+strong{
+  color: white;
+  font-weight: 500;
+}
 body { 
   background: linear-gradient(115.23deg, #FF0071 -30.87%, #000000 126.24%);
   animation: rotate-gradient 15s ease infinite;
   background-attachment: fixed;
   background-size: 200% 200%;
+}
+
+::-moz-selection {
+  color: black; 
+  background: #ffffff;
+}
+
+::selection {
+  color: black; 
+  background: #ffffff;
 }
 
