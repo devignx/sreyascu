@@ -28,7 +28,7 @@ export default function Home() {
           <p className='text-center text-sm mt-2 text-white/70'>Aspiring Game Producer</p>
           <div className='flex overflow-hidden flex-col md:flex-row justify-center items-center md:items-start gap-12 my-12 h-max max-w-[90%]  lg:max-w-[70%] bg-black/50 p-8 md:p-16 m-auto rounded-[2rem]'>
             <div className='min-h-[30rem] md:h-auto relative overflow-hidden md:overflow-visible rounded-3xl w-full md:w-[25rem] drop-shadow-xl '>
-              <img className='w-full bg-cover absolute transition-all duration-700 ease-in-out grayscale hover:filter-none bg-white hover:p-4 rounded-3xl drop-shadow-xl ' src='https://www.sreyascu.com/pic.png' />
+              <img className='w-full bg-cover absolute transition-all duration-700 ease-in-out grayscale hover:filter-none bg-white hover:p-0 p-4 md:p-0 md:hover:p-4 rounded-3xl drop-shadow-xl ' src='https://www.sreyascu.com/pic.png' />
             </div>
             <div className='flex flex-col justify-between gap-8 w-full'>
               <p className=' text-white/80 text-[0.9rem] leading-[25px]'>
