@@ -36,12 +36,12 @@ export default function Home() {
               <br/><br/>
               I intend to help teams <strong>solve problems, ensure quality of product and deliver outcomes on time.</strong> I believe the mastery of my soft skills from <strong>leadership, precise time management and proper communication</strong> along with my technical expertise will help me in my pursuit.
               <br/><br/>
-              Furthermore, I also believe in the notion of <strong>lifelong learning.</strong> It is my firm believe that you can learn something from almost anything. For me, <strong>playing video games with a critical eye taught me about game design, reading professional books restructured my life for the better and watching thought-provoking movies provided a new outlook on life,</strong> that I was previous blind to.
+              Furthermore, I believe in the notion of <strong>lifelong learning.</strong> It is my firm believe that you can learn something from almost anything. For me, <strong>playing video games with a critical eye taught me about game design, reading professional books restructured my life for the better and watching thought-provoking movies provided a new outlook on life,</strong> that I was previous blind to.
               <br/><br/>  
               On a final note, I would like to shout-out my blog, where I collect all my dispersed thoughts and amalgamate them into something useful and informative. Linked below!
               </p>
               <div className='flex gap-6 flex-wrap uppercase text-[0.6rem]'>
-                <a className='transition-all duration-500 ease-in-out rounded-full text-white py-3 px-5 border-solid border-[1px] border-white hover:bg-white/10' target="_blank" href="https://docs.google.com/document/d/1wJUrwpfgJEe7njoSIVkaXwbrPnsq6qDqMz4iY7_ibyQ/edit?usp=sharing"><button>RESUME</button></a>
+                <a className='transition-all duration-500 ease-in-out rounded-full text-white py-3 px-5 border-solid border-[1px] border-white hover:bg-white/10' target="_blank" href="https://drive.google.com/file/d/1q-zuWmaahdtYQXmRWMp8rqhbiQLKvLxm/view?usp=share_link"><button>RESUME</button></a>
                 <a className='transition-all duration-500 ease-in-out rounded-full text-white py-3 px-5 border-solid border-[1px] border-white hover:bg-white/10' target="_blank" href="https://www.linkedin.com/in/sreyas-cu/">LinkedIn</a>
                 <a className='transition-all duration-500 ease-in-out rounded-full text-white py-3 px-5 border-solid border-[1px] border-white hover:bg-white/10' target="_blank" href="https://www.r1chu.com/">Blog</a>
                 <a className='transition-all duration-500 ease-in-out rounded-full text-white py-3 px-5 border-solid border-[1px] border-white hover:bg-white/10' target="_blank" href="https://twitter.com/cusreyas">Twitter</a>
@@ -49,7 +49,6 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <p className='text-white text-xs mb-8 text-center'>Copyrights Recieved ©️2023</p>
       </body>
     </>
   )
