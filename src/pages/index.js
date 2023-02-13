@@ -17,7 +17,7 @@ export default function Home() {
         <meta property="og:url" content="https://www.sreyascu.com" />
         <meta property="og:site_name" content="Sreyas C U" />
         <meta property="og:image" content="https://raw.githubusercontent.com/devignx/sreyascu/main/public/OG.webp" />
-        <meta property="og:image:type" content="image/png" />
+        <meta property="og:image:type" content="image/webp" />
         <link rel="stylesheet" href="index.css"/> 
         <link rel="preconnect" href="https://fonts.googleapis.com"/>
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin/>
